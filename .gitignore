@@ -1,0 +1,16 @@
+# compiled binary
+monitor
+
+# editor swap/save files
+*~ 
+*.swp
+README.md.save
+
+# build artifacts (if any)
+*.o
+*.out
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
