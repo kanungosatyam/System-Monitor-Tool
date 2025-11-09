@@ -16,7 +16,7 @@ Platform: Linux (WSL on Windows)
 Install dependencies
 sudo apt update && sudo apt install build-essential -y
 Clone this repository
-git clone https://github.com/Chinmaya-Chidamber/system-monitor-tool.git
+git clone https://github.com/kanungosatyam/System-Monitor-Tool.git
 cd system-monitor-tool
 Build the project
 make
@@ -40,7 +40,7 @@ Observe the CPU% rise in the monitor, then kill it from within the app.
 system-monitor-tool/ ├── src/ | │ └── main.cpp | ├── Makefile | └── README.md
 
 🧾 Author
-Name: Chinmaya Chidamber Sahoo
+Name: Satyam Kanungo
 Platform: Windows (WSL Ubuntu)
 Language: C++
 🏆 Conclusion
