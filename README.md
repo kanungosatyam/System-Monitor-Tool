@@ -29,7 +29,7 @@ sudo apt update && sudo apt install build-essential -y
 ```
 - 2. Clone this repository
 ```bash
-git clone https://github.com/Chinmaya-Chidamber/system-monitor-tool.git
+git clone https://github.com/kanungosatyam/System-Monitor-Tool.git
 cd system-monitor-tool
 ```
 - 3. Build the project
@@ -86,7 +86,7 @@ system-monitor-tool/
 ---
 
 ## 🧾 Author
-- Name: Chinmaya Chidamber Sahoo
+- Name: Satyam Kanungo
 - Platform: Windows (WSL Ubuntu)
 - Language: C++
 
