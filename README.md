@@ -30,7 +30,7 @@ sudo apt update && sudo apt install build-essential -y
 - 2. Clone this repository
 ```bash
 git clone https://github.com/kanungosatyam/System-Monitor-Tool.git
-cd system-monitor-tool
+cd System-Monitor-Tool
 ```
 - 3. Build the project
 ```bash
